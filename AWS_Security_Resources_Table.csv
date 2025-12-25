@@ -1,0 +1,105 @@
+Domain,Type,Name,Level,Duration,Topics,URL
+Application Security,Repository,aws-serverless-security-workshop,medium,,"IAM, code security, data protection, infrastructure, logging",https://github.com/aws-samples/aws-serverless-security-workshop
+Application Security,Repository,devsecops-cicd,medium,,"DevSecOps, CI/CD",https://github.com/aws-samples/devsecops-cicd
+Application Security,Repository,cdk-devsecops-cicd-pipeline,medium,,"CDK, infrastructure as code",https://github.com/aws-samples/cdk-devsecops-cicd-pipeline
+Application Security,Repository,secure-pipelines-in-aws-workshop,medium,,"CI/CD security, automation",https://github.com/aws-samples/secure-pipelines-in-aws-workshop
+Application Security,Repository,generative-ai-to-build-a-devsecops-chatbot,advance,,"Gen AI, automation",https://github.com/aws-samples/generative-ai-to-build-a-devsecops-chatbot
+Application Security,Repository,minimum-eks-devsecops-with-monitoring-options,advance,,"EKS, Kubernetes, monitoring",https://github.com/aws-samples/minimum-eks-devsecops-with-monitoring-options
+Application Security,Repository,sample-devsecops-eks-pipeline,advance,,"EKS, pipeline automation",https://github.com/aws-samples/sample-devsecops-eks-pipeline
+Application Security,Workshop,Secure Code with Amazon Q Developer,basic,2 hours,"Amazon Q, code security, vulnerability detection",https://catalog.workshops.aws/q-dev-secure-code/en-US
+Application Security,Workshop,AWS Serverless Security Workshop,basic,4 hours,"Lambda, API Gateway, RDS Aurora security",https://github.com/aws-samples/aws-serverless-security-workshop
+Application Security,Workshop,Secure Pipelines in AWS Workshop,basic,3 hours,Pipeline security automation,https://github.com/aws-samples/secure-pipelines-in-aws-workshop
+Application Security,Workshop,"Cloud DevSecOps with Hashicorp, Palo Alto Networks & AWS",basic,2 hours,"Terraform, DevSecOps, IaC security",https://catalog.us-east-1.prod.workshops.aws/workshops/e31afbdf-ee40-41fa-a6c9-6ba2cb55fc1e
+Application Security,Workshop,Security for Developers,medium,3 hours,"Secure coding, DevSecOps, Application Security",https://catalog.workshops.aws/sec4devs/en-US
+Application Security,Workshop,Serverless Security Workshop (builder.aws),medium,3 hours,"Securing serverless applications with AWS Lambda, Amazon API Gateway, and RDS Aurora",https://catalog.workshops.aws/workshops/026f84fd-f589-4a59-a4d1-81dc543fcd30
+Application Security,Workshop,Terraform CI/CD and Testing on AWS,medium,3 hours,"Terraform testing, security tests",https://catalog.workshops.aws/terraform-cicd-on-aws
+Application Security,Workshop,Control Design Workshop,medium,3 hours,"Security controls, KMS, Config, Systems Manager",https://catalog.workshops.aws/control-design
+Application Security,Workshop,CI/CD on AWS Workshop,medium,4 hours,"Secure CI/CD pipelines, continuous integration, continuous deployment, continuous delivery",https://catalog.workshops.aws/workshops/40f6bef0-35e1-4aeb-8359-1584d37d916b
+Application Security,Workshop,Amazon SageMaker Studio Secure Data Science Workshop,medium,4 hours,"SageMaker security, ML security",https://github.com/aws-samples/amazon-sagemaker-studio-secure-data-science-workshop
+Application Security,Workshop,Enhance Security in Machine Learning Workflows,medium,2 hours,"ML security, data protection",https://catalog.us-east-1.prod.workshops.aws/workshops/578da574-492d-439f-8f20-f14a782e3701
+Data Protection,Repository,busy-engineers-document-bucket,medium,,"Client-side encryption, encryption SDK",https://github.com/aws-samples/busy-engineers-document-bucket
+Data Protection,Repository,cloudfront-to-govcloud-s3-sse-kms,advance,,"SSE-KMS, CloudFront, Lambda@Edge",https://github.com/aws-samples/cloudfront-to-govcloud-s3-sse-kms
+Data Protection,Workshop,AWS Encryption Tutorial,basic,5 hours,"KMS, S3, RDS, EBS, DynamoDB encryption",https://encryption-ws.workshop.aws
+Data Protection,Workshop,Practical Data Privacy and Compliance Controls for Sensitive Workloads,basic,2 hours,"Macie, EventBridge, compliance",https://catalog.us-east-1.prod.workshops.aws/workshops/2d21fd6c-8e3d-49ad-b01a-fa9380842bc4
+Data Protection,Workshop,S3 Immersion Day,medium,8 hours,"S3 security best practices, encryption, access controls, compliance, data lifecycle management",https://catalog.workshops.aws/workshops/093c6055-093f-4928-ba16-83a79874e2fe
+Data Protection,Workshop,Data Perimeter in Action,medium,1 hour,"Data perimeter, network perimeter",https://catalog.us-east-1.prod.workshops.aws/workshops/1ca880ca-5039-48df-a097-b164baa696aa
+Data Protection,Workshop,AWS Encryption in Transit Workshop,medium,3 hours,"Private CA, ACM, TLS",https://catalog.workshops.aws/certificatemanager
+Data Protection,Workshop,Data Protection in Event Driven Architectures,medium,1 hour,"KMS, SNS, SQS, Lambda encryption",https://catalog.workshops.aws/data-protection-eda
+Data Protection,Workshop,Hands-on KMS Troubleshooting Labs,medium,2 hours,"KMS troubleshooting, S3/KMS integration",https://catalog.us-east-1.prod.workshops.aws/workshops/a081e718-4acc-4877-acc3-94fba8a64bce
+Data Protection,Workshop,"Store, retrieve, and manage sensitive credentials in AWS Secrets Manager",medium,2 hours,"Secrets rotation, credential management",https://catalog.us-east-1.prod.workshops.aws/workshops/92e466fd-bd95-4805-9f16-2df07450db42/en-US
+Data Protection,Workshop,Serverless Security: Advanced Lambda Protection,medium,1 hour,"Lake Formation, data classification",https://catalog.us-east-1.prod.workshops.aws/workshops/0f031bd6-2a06-4788-b5da-bc887a7a97b9
+Data Protection,Workshop,AWS Control Design,medium,2 hour,3 Tier environment,https://catalog.workshops.aws/control-design/en-US
+Data Protection,Workshop,Using Post-Quantum Cryptography on AWS,medium,2 hours,Post-quantum cryptography,https://catalog.workshops.aws/using-pq-crypto-on-aws
+Data Protection,Workshop,AWS ACM Hands-On Troubleshooting Workshop,medium,1 hour,ACM DNS validation,https://catalog.workshops.aws/acm-troubleshooting
+Data Protection,Workshop,Practical Data Privacy and Compliance Controls for Sensitive Workloads,medium,2 hours,Threat Model,https://catalog.us-east-1.prod.workshops.aws/workshops/2d21fd6c-8e3d-49ad-b01a-fa9380842bc4/en-US
+Data Protection,Workshop,Data Perimeter Workshop,advance,2 hours,"VPC Endpoints, resource policies, trust perimeter",https://data-perimeter.workshop.aws
+Detection,Repository,aws-control-tower-org-setup-sample,advance,,"Control Tower, GuardDuty, Macie, SecurityHub, automation",https://github.com/aws-samples/aws-control-tower-org-setup-sample
+Detection,Repository,sample-aws-multi-account-observability,advance,,"Multi-account, monitoring, security analytics",https://github.com/aws-samples/sample-aws-multi-account-observability
+Detection,Workshop,SIEM on Amazon OpenSearch Service Workshop,basic,2 hours,"OpenSearch, GuardDuty, SecurityHub, CloudTrail",https://security-log-analysis-platform.workshop.aws/
+Detection,Workshop,Amazon GuardDuty & Amazon Detective Workshop,medium,4 hours,"Amazon GuardDuty, Amazon Detective overviews and operationalization",https://catalog.us-east-1.prod.workshops.aws/workshops/7e9f67a3-985a-4e9c-b38b-2d54a70d0da7
+Detection,Workshop,Security Hub Workshop,medium,2 hours,"Security Hub, finding prioritization",https://catalog.workshops.aws/security-hub
+Detection,Workshop,Building a Cloud Security Posture Dashboard with Amazon QuickSight,medium,2 hours,"Security Hub, QuickSight, dashboards",https://catalog.workshops.aws/securitydashboard
+Detection,Workshop,Visualize Security Hub Findings using AWS Analytics Services,medium,2 hours,"Security Hub, Athena, QuickSight",https://catalog.workshops.aws/visualizing-securityhub-findings/en-US
+Detection,Workshop,Building Prowler into a QuickSight powered AWS security dashboard,medium,2 hours,"Prowler, continuous monitoring",https://catalog.us-east-1.prod.workshops.aws/workshops/b1cdc52b-eb11-44ed-8dc8-9dfe5fb254f5/en-US
+Detection,Workshop,Unauthorized IAM Credential Use - Security Event Simulation,medium,2 hours,"CloudTrail, credential compromise",https://catalog.us-east-1.prod.workshops.aws/workshops/6a8ad836-10a6-4694-9a3b-f53f193041de
+Detection,Workshop,Cryptomining - Security Event Simulation,medium,1 hour,"GuardDuty, crypto mining detection",https://catalog.us-east-1.prod.workshops.aws/workshops/ea9c0361-001f-4194-963e-06b07c3e5d6b
+Detection,Workshop,Validating Security Guardrails with Chaos Engineering,advance,1 hour,"Fault Injection Simulator, GuardDuty, Config",https://catalog.us-east-1.prod.workshops.aws/workshops/f36e426f-e8a6-467e-97d3-2223bd5f0c49
+Identity and Access Management (IAM),Repository,single-stage-aws-iam-identity-center-pipeline,basic,,Configuration as Code,https://github.com/aws-samples/single-stage-aws-iam-identity-center-pipeline
+Identity and Access Management (IAM),Repository,terraform-aws-identity-center-users-and-groups,basic,,"User management, Terraform",https://github.com/aws-samples/terraform-aws-identity-center-users-and-groups
+Identity and Access Management (IAM),Repository,iam-identity-center-team,medium,,"Just-In-Time access, privilege elevation",https://github.com/aws-samples/iam-identity-center-team
+Identity and Access Management (IAM),Repository,automated-role-entitlements-in-aws-iam-identity-center,medium,,"Role entitlements, scale access, security automation",https://github.com/aws-samples/automated-role-entitlements-in-aws-iam-identity-center
+Identity and Access Management (IAM),Repository,terraform-aws-identity-center,medium,,"Terraform, Infrastructure as Code",https://github.com/aws-samples/terraform-aws-identity-center
+Identity and Access Management (IAM),Repository,aws-iam-identity-center-permission-policies-analyzer,medium,,Policy analysis,https://github.com/aws-samples/aws-iam-identity-center-permission-policies-analyzer
+Identity and Access Management (IAM),Repository,aws-iam-identity-center-extensions,advance,,AWS SSO for enterprise,https://github.com/aws-samples/aws-iam-identity-center-extensions
+Identity and Access Management (IAM),Repository,sample-visualizing-access-rights-for-identity-on-aws,advance,,"Identity visualization, graph databases",https://github.com/aws-samples/sample-visualizing-access-rights-for-identity-on-aws
+Identity and Access Management (IAM),Workshop,Security Baseline Workshop,basic,2 hours,"IAM fundamentals, security best practices",https://catalog.workshops.aws/startup-security-baseline/en-US
+Identity and Access Management (IAM),Workshop,IAM Identity Center - Workforce Identity Management at Scale,basic,2 hours,"IAM Identity Center, SSO, multi-account",https://catalog.us-east-1.prod.workshops.aws/workshops/590f8439-42c7-46a1-8e70-28ee41498b3a
+Identity and Access Management (IAM),Workshop,Least Privilege with IAM Access Analyzer,basic,1 hour,"IAM Access Analyzer, least privilege",https://catalog.workshops.aws/lp-aa
+Identity and Access Management (IAM),Workshop,Threat Modeling for Builders,basic,3 hours,"System modeling, threat identification",https://catalog.workshops.aws/threatmodel
+Identity and Access Management (IAM),Workshop,IAM Policy Learning Experience,medium,1 hour,"IAM policy writing, conditions",https://catalog.us-east-1.prod.workshops.aws/workshops/d1531d0a-79fd-45af-b198-d81e349ee660
+Identity and Access Management (IAM),Workshop,How and When to Use Different IAM Policy Types,medium,2 hours,"Identity policies, resource policies, permission boundaries",https://catalog.workshops.aws/iam-policy-types
+Identity and Access Management (IAM),Workshop,Refining IAM Permissions Like A Pro,medium,1 hour,"Unused permissions, automation",https://catalog.workshops.aws/refining-iam-permissions-like-a-pro
+Identity and Access Management (IAM),Workshop,Streamline Workforce Access to AWS Analytics Services using IAM Identity Center,medium,2 hours,"IAM Identity Center, Trusted Identity Propagation",https://catalog.us-east-1.prod.workshops.aws/workshops/c93b473e-436e-45be-80e8-322b90c7024f
+Identity and Access Management (IAM),Workshop,Cedar Policy Language in Action,medium,2 hours,"Cedar, Amazon Verified Permissions",https://catalog.workshops.aws/cedar-policy-language-in-action
+Identity and Access Management (IAM),Workshop,Amazon Cognito Workshop,medium,6 hours,Deep dive into Cognito user authentication,https://catalog.workshops.aws/workshops/137bc34c-33d9-43a8-bf8f-2d4f6c22c333
+Identity and Access Management (IAM),Workshop,Verified Permissions in action,medium,4 hours,"Amazon Verified Permissions APIs, Cedar policies",https://catalog.workshops.aws/workshops/00171721-a17c-4b56-9849-5558dcaacd94
+Identity and Access Management (IAM),Workshop,IAM Identity Center: Empowering Secure Access to Generative AI Applications,medium,2 hours,"Connect corporate identities to AWS, manage access to Amazon Q",https://catalog.workshops.aws/workshops/d6323be2-38f4-457e-aaf5-08af211f3681
+Identity and Access Management (IAM),Workshop,Integrating IAM Access Analyzer into a CI/CD Pipeline,medium,2 hours,"IAM policy validation, CI/CD",https://catalog.workshops.aws/accessanalyzercicd
+Identity and Access Management (IAM),Workshop,Advanced Machine-to-Machine Access with IAM Roles Anywhere,medium,1 hour,"IAM Roles Anywhere, certificate-based auth",https://catalog.us-east-1.prod.workshops.aws/workshops/f81841e0-b033-4355-8b6c-b2a404d544a4
+Identity and Access Management (IAM),Workshop,IAM Immersion Day,advance,6 hours,Comprehensive IAM training covering all levels,https://catalog.workshops.aws/workshops/18b3622c-5d4c-45c9-9834-6a7091109072
+Identity and Access Management (IAM),Workshop,Automating IAM Policy Validation and Analysis using GitHub Actions,advance,2 hours,"GitHub Actions, automated policy validation",https://catalog.us-east-1.prod.workshops.aws/workshops/b5083f86-f4e1-4712-8015-ae1549eb2971
+Incident Response,Repository,aws-incident-response-playbooks,medium,,"Playbooks, best practices",https://github.com/aws-samples/aws-incident-response-playbooks
+Incident Response,Repository,aws-incident-response-playbooks-workshop,medium,,"CloudTrail, GuardDuty, VPC flow logs, Route53 query logs",https://github.com/aws-samples/aws-incident-response-playbooks-workshop
+Incident Response,Repository,aws-customer-playbook-framework,medium,,"Playbooks, frameworks",https://github.com/aws-samples/aws-customer-playbook-framework
+Incident Response,Repository,automated-ec2-isolation-for-incident-response,medium,,"EC2 isolation, automation",https://github.com/aws-samples/automated-ec2-isolation-for-incident-response
+Incident Response,Repository,sample-aws-security-incident-response-integrations,advance,,Incident response automation,https://github.com/aws-samples/sample-aws-security-incident-response-integrations
+Incident Response,Repository,improving-security-incident-response-times-by-decentralizing-notifications,advance,,Notification architecture,https://github.com/aws-samples/improving-security-incident-response-times-by-decentralizing-notifications
+Incident Response,Repository,sample-eks-incident-response-automation,advance,,"EKS, Kubernetes security",https://github.com/aws-samples/sample-eks-incident-response-automation
+Incident Response,Repository,sample-fully-autonomous-incident-response,advance,,"Automation, AI-driven response",https://github.com/aws-samples/sample-fully-autonomous-incident-response
+Incident Response,Repository,automated-security-response-on-aws,advance,,"Security automation, Security Hub",https://github.com/aws-solutions/automated-security-response-on-aws
+Incident Response,Workshop,Ransomware on S3 - Security Event Simulation,basic,2 hours,"S3 versioning, data protection",https://catalog.us-east-1.prod.workshops.aws/workshops/fc7b7cf3-f494-48e2-8954-258ffdd76ed6
+Incident Response,Workshop,Automating Incident Response Workshop,medium,2 hours,"AWS Lambda, automated response",https://catalog.workshops.aws/auto-incident-response
+Incident Response,Workshop,SSRF on IMDSv1 - Security Event Simulation,medium,2 hours,"SSRF, IMDSv2, metadata security",https://catalog.us-east-1.prod.workshops.aws/workshops/c125f3c7-95e8-4e24-9819-6d085664a507
+Incident Response,Workshop,AWS CIRT Toolkit For Automating Incident Response Preparedness,medium,1 hour,"CIRT tools, automation",https://catalog.us-east-1.prod.workshops.aws/workshops/4191fcf7-06cc-4b4a-b13c-e7c4813f4839
+Incident Response,Workshop,Unauthorized IAM Credential Use - Security Event Simulation,medium,2 hours,"CloudTrail, credential compromise",https://catalog.us-east-1.prod.workshops.aws/workshops/6a8ad836-10a6-4694-9a3b-f53f193041de
+Incident Response,Workshop,Cryptomining - Security Event Simulation,medium,1 hour,"GuardDuty, crypto mining detection",https://catalog.us-east-1.prod.workshops.aws/workshops/ea9c0361-001f-4194-963e-06b07c3e5d6b
+Incident Response,Workshop,AWS Incident Response Playbooks Workshop,advance,2 hours,"CloudTrail, Security Hub, Athena, GuardDuty",https://catalog.us-east-1.prod.workshops.aws/workshops/ed82a5d4-6630-41f0-a6a1-9345898fa6ec
+Infrastructure Protection,Repository,networking-costs-calculator,basic,,"Cost optimization, VPC",https://github.com/aws-samples/networking-costs-calculator
+Infrastructure Protection,Repository,aws-vpc-builder-cdk,medium,,"VPC, VPC endpoints, Firewall, Route53",https://github.com/aws-samples/aws-vpc-builder-cdk
+Infrastructure Protection,Repository,aws-waf-security-automations,medium,,"WAF, security automation",https://github.com/aws-solutions/aws-waf-security-automations
+Infrastructure Protection,Repository,moving-to-a-zero-trust-architecture-in-aws,advance,,"Zero Trust, Terraform",https://github.com/aws-samples/moving-to-a-zero-trust-architecture-in-aws
+Infrastructure Protection,Workshop,Firewall Manager Workshop - Audit and Manage Firewall Rules,basic,4 hours,"Firewall Manager, centralized management",https://catalog.workshops.aws/firewall-manager/en-US
+Infrastructure Protection,Workshop,Zero Trust Episode 1 - The Phantom Service Perimeter,basic,2 hours,"Zero Trust, service perimeter",https://zerotrust-service2service.workshop.aws
+Infrastructure Protection,Workshop,Strengthen Your Web Application Defenses with AWS WAF,medium,2 hours,"AWS WAF, web application security",https://catalog.us-east-1.prod.workshops.aws/workshops/81e94a4b-b47f-4acc-a284-914c4514d50f/en-US
+Infrastructure Protection,Workshop,Approaches to Layered Security on Amazon VPC,medium,3 hours,"Network Firewall, WAF, Gateway Load Balancer",https://catalog.workshops.aws/layered-vpc-security
+Infrastructure Protection,Workshop,AWS Gateway Load Balancer Workshop,medium,3 hours,"Gateway Load Balancer, inspection VPC",https://catalog.workshops.aws/gwlb-networking
+Infrastructure Protection,Workshop,Secure Hybrid Access to S3 using VPC Endpoints,medium,1 hour,"PrivateLink, VPC endpoints, hybrid connectivity",https://catalog.us-east-1.prod.workshops.aws/workshops/3a8d4ddf-66c5-4d26-ae6f-6292a517f46c/en-US
+Infrastructure Protection,Workshop,AWS Verified Access Workshop,medium,3 hours,"Verified Access, Zero Trust Network Access",https://catalog.workshops.aws/verifiedaccessworkshop/en-US
+Infrastructure Protection,Workshop,AWS Networking Workshop,medium,8 hours,"VPC, Transit Gateway, Direct Connect, security",https://networking.workshop.aws
+Infrastructure Protection,Workshop,AWS Storage Workshop,medium,6 hours,"Storage security best practices, data migration strategies, performance tuning, backup",https://catalog.workshops.aws/workshops/74237958-77c8-4e7f-a02f-ae201a04d759
+Infrastructure Protection,Workshop,Egress Controls with AWS Network Firewall and Amazon Route 53 Resolver DNS Firewall,medium,2 hours,"AWS Network Firewall, Route 53 DNS Firewall, centralized management with Firewall Manager",https://catalog.workshops.aws/workshops/503778b9-6dbb-4e0d-9920-e8dbae141f43
+Infrastructure Protection,Workshop,Amazon EKS Security Immersion Day,medium,8 hours,"Authentication/Authorization, cluster endpoint security, basic & advanced image scanning, runtime pod security, network policies, GuardDuty integration, CIS benchmark image hardening, Bottlerocket OS, IRSA, Secrets Management",https://catalog.workshops.aws/workshops/165b0729-2791-4452-8920-53b734419050
+Infrastructure Protection,Workshop,Securing AWS Network Traffic: Network Firewall & DNS Firewall Workshop,medium,2 hours,Network Firewall & DNS Firewall,https://catalog.us-east-1.prod.workshops.aws/workshops/cbfa9f18-1175-4916-b7e7-e33dbbca9f9d/en-US
+Infrastructure Protection,Workshop,Hands on Network Firewall Workshop,advance,2 hours,"AWS Network Firewall, stateful rules",https://hands-on-network-firewall.workshop.aws
+Infrastructure Protection,Workshop,AWS Network Firewall Workshop,advance,2 hours,"Network Firewall features, best practices",https://networkfirewall.workshop.aws
+Infrastructure Protection,Workshop,Building Application Deception System using AWS WAF Bot Control,advance,4 hours,"Bot Control, deception techniques",https://catalog.us-east-1.prod.workshops.aws/workshops/254e4343-d3c1-4963-8a35-023de1c2b23e
